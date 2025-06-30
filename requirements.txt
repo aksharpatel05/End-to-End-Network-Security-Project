@@ -1,0 +1,9 @@
+python-dotenv #call to load environment variables from a .env file
+pandas 
+numpy
+scikit-learn 
+pymongo
+certifi
+
+
+##-e . # This line indicates that the package is installed in editable mode, allowing changes to the source code to be reflected without reinstalling.
